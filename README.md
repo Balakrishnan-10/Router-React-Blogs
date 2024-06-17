@@ -3,7 +3,7 @@
 
 ## Vercel Deployment link : https://router-react-blogs.vercel.app/
 
-## Base URL : http://localhost:3004/
+## Base URL : http://localhost:3000/
 
 ## React-Router-Dom :
 > [!IMPORTANT]
